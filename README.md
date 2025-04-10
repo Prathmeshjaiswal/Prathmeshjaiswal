@@ -1,6 +1,6 @@
 
 
-[![MasterHead]https://camo.githubusercontent.com/29b3437959782f8dd2b67ade19a2c1283b8941b5bc16a5e2bab89cda69f28b7b/68747470733a2f2f7777772e69697365726b6f6c2e61632e696e2f7e6364732f6173736574732f696d6167652f696e74726f5f746f5f636f6d705f70726f6772616d6d696e672e6a7067(https://Prathmeshjaiswal.io)
+[![MasterHead][https://camo.githubusercontent.com/29b3437959782f8dd2b67ade19a2c1283b8941b5bc16a5e2bab89cda69f28b7b/68747470733a2f2f7777772e69697365726b6f6c2e61632e696e2f7e6364732f6173736574732f696d6167652f696e74726f5f746f5f636f6d705f70726f6772616d6d696e672e6a7067](https://Prathmeshjaiswal.io)
 <h1 align="center">Hi 👋, I'm Prathmesh Jaiswal</h1>
 <h3 align="center">A passionate Ai/ML enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"/>
