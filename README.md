@@ -1,9 +1,9 @@
 
 
-[![MasterHead](https://media.licdn.com/dms/image/v2/C4D1BAQHdc_rfdDq-rA/company-background_10000/company-background_10000/0/1583768500905/towards_artificial_intelligence_cover?e=2147483647&v=beta&t=e6Y3aw6IPlX2SQRT2xxUX9gSDZ6Gffp5vUE_nZo5_c4)](https://Prathmeshjaiswal.io)
+[![MasterHead]https://camo.githubusercontent.com/29b3437959782f8dd2b67ade19a2c1283b8941b5bc16a5e2bab89cda69f28b7b/68747470733a2f2f7777772e69697365726b6f6c2e61632e696e2f7e6364732f6173736574732f696d6167652f696e74726f5f746f5f636f6d705f70726f6772616d6d696e672e6a7067(https://Prathmeshjaiswal.io)
 <h1 align="center">Hi 👋, I'm Prathmesh Jaiswal</h1>
 <h3 align="center">A passionate Ai/ML enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6bn5xCFctbKW8eKXBnsS1tOzDXN-s8lmpnw&s)"/>
+<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prathmeshjaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="Prathmeshjaiswal" /> </p>
  
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
