@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Prathmesh Jaiswal</h1>
-<h3 align="center">A passionate Ai/ML enthusiast from India</h3>
+<h3 align="center">A Innovative Tech enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prathmeshjaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="Prathmeshjaiswal" /> </p>
  
@@ -8,11 +8,9 @@
  
 - 🔭 I’m currently working on [**Vani-The AI Assistant**](https://github.com/Prathmeshjaiswal/Vani-The-AI-Assistant)
  
-- 🌱 I’m currently learning **Machine Learning**
- 
 - 👨‍💻 All of my projects are available at [https://github.com/Prathmeshjaiswal](https://github.com/Prathmeshjaiswal)
  
-- 💬 Ask me about **Python, MachineLearning,Artificial Intelligance,Data Science**
+- 💬 Ask me about **Java,Spring Boot,Artificial Intelligance,Data Science**
  
 - 📫 How to reach me **prathmeshjaiswal550@gmail.com**
  
